@@ -83,6 +83,8 @@ markup:
     anchorLineNos: true
     lineNumbersInTable: false
     noClasses: false
+  datetime:
+    onlyDate: true
 
 ### Taxonomies
 
